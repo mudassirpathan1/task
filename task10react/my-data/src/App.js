@@ -43,11 +43,11 @@ function App() {
             date={name.date}
           ></Expenseitem>
    
+   
         </div>
       ))}
       
     </div>
   );
 }
-
 export default App;

@@ -14,6 +14,7 @@ return (
 <div className="expense-date__year">{year}</div>
     </div>
 )
+
 }
 
     export default ExpenseDate;
